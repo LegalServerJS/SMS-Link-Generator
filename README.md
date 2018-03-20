@@ -1,6 +1,8 @@
 # SMS-Link-Generator
 Generates a URL with client parameters to be text to client
 
+![Alt text](SMSImage.png?raw=true "Optional Title")
+
 ## Description
 We use this to create a link to our website with the client's matter id as a paremeter. This link once generated, populates the message block for sending a text message. The link allows them to certify our terms and conditions without having to mail them anything. The link goes to a gravity form on our website and because the url has the matterid, the gravity form is able to email the response back to the legal server file.
 
